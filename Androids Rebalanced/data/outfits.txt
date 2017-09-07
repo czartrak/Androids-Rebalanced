@@ -20,7 +20,7 @@ outfit "Standard Android Charging Bay"
 	
 outfit "Small Android Charging Bay"
 	category "Systems"
-	cost 80000
+	cost 35000
 	thumbnail "outfit/command center"
 	"mass" 21
 	"outfit space" -21
@@ -31,7 +31,7 @@ outfit "Small Android Charging Bay"
 	
 outfit "Large Android Charging Bay"
 	category "Systems"
-	cost 80000
+	cost 100000
 	thumbnail "outfit/command center"
 	"mass" 43
 	"outfit space" -43
