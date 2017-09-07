@@ -13,7 +13,7 @@ outfit "Standard Android Charging Bay"
 	thumbnail "outfit/command center"
 	"mass" 27
 	"outfit space" -27
-	"charging dock" -5
+	"charging dock" 5
 	"bunks" -5
 	"energy capacity" -50
 	description "Being robots, androids require a place to charge. In exchange for some bunks and energy capacity, you can charge up to 5 androids here."
@@ -24,7 +24,7 @@ outfit "Small Android Charging Bay"
 	thumbnail "outfit/command center"
 	"mass" 21
 	"outfit space" -21
-	"charging dock" -2
+	"charging dock" 2
 	"bunks" -2
 	"energy capacity" -20
 	description "A smaller charger dock, with enough space to charge 2 Androids."
@@ -35,7 +35,7 @@ outfit "Large Android Charging Bay"
 	thumbnail "outfit/command center"
 	"mass" 43
 	"outfit space" -43
-	"charging dock" -10
+	"charging dock" 10
 	"bunks" -10
 	"energy capacity" -100
 	description "This dock has twice the capacity of the original dock, allowing lots of androids to be charged at once."
