@@ -49,3 +49,11 @@ outfit "NDR-114 Android"
 	"shield capacity" -700
 	unplunderable 1
 	description "[REDACTED]"
+	
+outfit "Android Uprising Insurance"
+	category "Special"
+	cost 100000
+	thumbnail "outfit/insurance"
+	description "Do you live in fear of the androids that crew your ship? Well not anymore! With the Android Uprising Insurance you and your posessions are insured for LIFE!"
+	description "[NOTE:] Insurance does not cover androids that have been illegally modified with EMP devices, weapons, etc."
+	descritpion "[LORE ITEM!]"
